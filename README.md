@@ -27,14 +27,13 @@ The following components are necessary for setting up and interacting with the c
 - [x] Edgemesh both on Master and Edge (https://edgemesh.netlify.app/guide/getting-started.html#dependencies)
 - [x] Monitoring: Prometheus, Grafana, Kubernetes Metrics Server for edge
 - [x] OpenFaaS
-- [ ] Sedna
 
 ## Get Started
 
 1. Clone the repository and go to the root directory:
 
 ```bash
-git https://github.com/ansjin/KubeEdge-Openstack-Ansible-Automation
+git clone https://github.com/max-ae/KubeEdge-OpenFaaS-Automation.git 
 cd KubeEdge-Openstack-Ansible-Automation
 ```
 
